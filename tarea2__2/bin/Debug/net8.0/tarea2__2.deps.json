@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tarea2__2/1.0.0": {
+        "runtime": {
+          "tarea2__2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tarea2__2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
